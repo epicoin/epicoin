@@ -1,3 +1,3 @@
-FooCoin (FOO)
+EpiCoin (EPC)
 
 Blah, blah, blah.
